@@ -1,5 +1,7 @@
 # Card Guard Agent (design)
 
+English | [日本語](README.ja.md)
+
 > **Design stage: no code in this repository yet.** This page describes the idea so engineers can comment on it before it is built.
 
 **One line:** a local agent that keeps track of which payment card is registered with which service, so that when a card leaks, expires or is replaced you know exactly what to change, and in what order.
